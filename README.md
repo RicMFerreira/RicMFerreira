@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Ricardo and I'm interested in Data Analytics and Data Science.
   - 🔭 I’m currently working on a Portfolio and Profile Website.
-  - 🤔 I’m looking to find a mentor to help me on a career path to increase my chances to find a job (remotely or hybrid) in Data Science, Data Analyst and Business Intelligence.
+  - 🤔 I’m seeking a mentor who can guide me in building a strong career path and improving my chances of securing a remote or hybrid role in Data Science, Data Analytics, or Business Intelligence.
   - 📫 You can reach me by sending a message to my LinkedIn profile [here](https://www.linkedin.com/in/ricardo-ferreira-985b8170/)
 <!--
 **RicMFerreira/RicMFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
