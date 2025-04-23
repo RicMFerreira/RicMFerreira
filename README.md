@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+My name is Ricardo and I'm interested in Data Analytics and Data Science.
+  - 🔭 I’m currently working on a Portfolio and Profile Website.
+  - 🤔 I’m looking to find a mentor to a help me find job (remotely or hybrid) in the UK.
+  - 📫 You can reach me by sending a message to my LinkedIn profile [here](https://www.linkedin.com/in/ricardo-ferreira-985b8170/)
 <!--
 **RicMFerreira/RicMFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
